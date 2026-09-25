@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# InletEchoShift/telegramzapret 58ee42427cdd
